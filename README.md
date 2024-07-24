@@ -1,14 +1,10 @@
 # Project Steps and Tools:
 
-## Step1 𝗗𝗮𝘁𝗮 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴 & 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻
+## **Step1 𝗗𝗮𝘁𝗮 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴 & 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻**
 
+ ### 𝘛𝘰𝘰𝘭𝘴: 𝘔𝘪𝘤𝘳𝘰𝘴𝘰𝘧𝘵 𝘗𝘰𝘸𝘦𝘳 𝘘𝘶𝘦𝘳𝘺
 
-
-𝘛𝘰𝘰𝘭𝘴: 𝘔𝘪𝘤𝘳𝘰𝘴𝘰𝘧𝘵 𝘗𝘰𝘸𝘦𝘳 𝘘𝘶𝘦𝘳𝘺
-
-
-
-Ensuring data accuracy and consistency was crucial. We cleaned and transformed the data, addressing NULL values and other anomalies. This phase was all about improving data quality and reliability.
+   Ensuring data accuracy and consistency was crucial. We cleaned and transformed the data, addressing NULL values and other anomalies. This phase was all about improving data quality and reliability.
 
 
 
