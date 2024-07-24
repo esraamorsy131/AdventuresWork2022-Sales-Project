@@ -15,12 +15,12 @@
 ## **Step3: 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 & 𝗥𝗲𝗽𝗼𝗿𝘁𝗶𝗻𝗴**
 
   ###𝘛𝘰𝘰𝘭𝘴: 𝘔𝘪𝘤𝘳𝘰𝘴𝘰𝘧𝘵 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐, 𝘋𝘈𝘟
-
+  
     We created interactive dashboards and reports to visualize key metrics and provide actionable insights. We focused on customer analysis, product performance, and overall business insights. DAX was our 
     tool of choice for dynamic calculations and real-time data insights.
 
 
-This project was an exceptional opportunity to apply my theoretical knowledge in a real-world setting, enhancing my data integration, analysis, and visualization skills. 
+**This project was an exceptional opportunity to apply my theoretical knowledge in a real-world setting, enhancing my data integration, analysis, and visualization skills**
 
 
 
